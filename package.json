@@ -2,5 +2,26 @@
   "dependencies": {
     "normalize": "^0.3.1",
     "normalize.css": "^8.0.1"
-  }
+  },
+  "name": "moshify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monwen/simple-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monwen/simple-website/issues"
+  },
+  "homepage": "https://github.com/monwen/simple-website#readme",
+  "description": ""
 }
